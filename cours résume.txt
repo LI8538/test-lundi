@@ -94,4 +94,4 @@ les types scalaires
     // $nombre2 = $nombre2 + 12;
     // echo $nombre2;
 
-    cours 23/03 
+    cours 23/03 vendredi

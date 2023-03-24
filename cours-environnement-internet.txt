@@ -1,2 +1,15 @@
 cours 23/03/2023 L'environnement-internet 
-connaissance 
+Binaire = langage de la machine 0 et 1, puissance de 2
+exadécimal : 1F , compose lettre 
+décimal: lisible pour les utilisateurs, puissance de 10
+
+exemple:
+Décimal 
+31
+
+Hexadécimal 
+1F
+
+Binaire 
+11111
+
